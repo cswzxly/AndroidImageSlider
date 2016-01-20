@@ -23,7 +23,9 @@ import com.daimajia.slider.library.Tricks.ViewPagerEx;
 
 import java.util.HashMap;
 
-
+/**
+ * 新的广告轮播
+ */
 public class MainActivity extends ActionBarActivity implements BaseSliderView.OnSliderClickListener, ViewPagerEx.OnPageChangeListener{
 
     private SliderLayout mDemoSlider;
